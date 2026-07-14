@@ -1,0 +1,31 @@
+### GET request to example server
+GET https://examples.http-client.intellij.net/get
+    ?generated-in=IntelliJ IDEA
+
+###
+GET http://localhost:8080/api/v1/nba-player
+
+###
+GET http://localhost:8080/api/v1/nba-player/1
+
+###
+POST http://localhost:8080/api/v1/nba-player
+Content-Type: application/json
+
+{
+  "name": "Luka Dončić",
+  "association": "Dallas Mavericks",
+  "position": "Point Guard"
+}
+
+###
+PUT http://localhost:8080/api/v1/nba-player/1
+Content-Type: application/json
+
+{
+  "association": "New York Knicks"
+}
+
+###
+DELETE http://localhost:8080/api/v1/nba-player/6
+
