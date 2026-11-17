@@ -9,7 +9,7 @@ create, read, update, and delete players.
 - **Spring Boot**
 - **Spring Data JPA**
 - **PostgreSQL**
-- **Docker**
+- **Docker Compose (PostgreSQL)**
 - **Maven**
 
 ## Getting Started
