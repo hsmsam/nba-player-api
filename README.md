@@ -125,4 +125,4 @@ src/
 
 ## Author
 
-Sam Hafez — [github.com/hsmsam](https://github.com/hsmsam)
+Hafez Sam — [github.com/hsmsam](https://github.com/hsmsam)
