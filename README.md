@@ -16,7 +16,7 @@ create, read, update, and delete players.
 
 ### Prerequisites
 
-- Java 17+
+- Java 21
 - Docker and Docker Compose
 - Maven
 
