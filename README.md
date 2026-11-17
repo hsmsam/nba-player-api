@@ -123,6 +123,13 @@ src/
 - Mapping HTTP methods (GET, POST, PUT, DELETE) to endpoints using Spring annotations
 - Using JPA annotations to define entities and manage database schema
 
+## Known Limitations
+
+- No authentication
+- No input validation or custom error handling yet (invalid requests may return generic 500 errors)
+- Entities are exposed directly in requests and responses
+- No automated tests
+
 ## Author
 
 Hafez Sam — [github.com/hsmsam](https://github.com/hsmsam)
